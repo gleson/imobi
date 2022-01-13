@@ -1,0 +1,1 @@
+Projeto em Django desenvolvido na PyStack Week 2.0.
